@@ -27,7 +27,7 @@ To develop a comprehensive credit card weekly dashboard that provides real time 
 5. Revenue generated from online transaction is only $4M while compared to swipe revenue which has generated around $36 M.Difficulties or lack of credit card usage for online transactions to be looked into.
 # Summary
 Credit card financial dashboard using Powerbi:
-1. Developed an interactive dashboard using transaction and customer data from a Sql database.To provide realtime insights.
+1. Developed an interactive dashboard using transaction and customer data from a Sql database to provide realtime insights.
 2. Streamlined data processing and analysis to monitor key performance metrics and trends.
 3. Shared accountable insights with stakeholder based on dashboard findings to support decision making process.
 
