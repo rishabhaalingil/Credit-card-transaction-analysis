@@ -12,7 +12,7 @@ To develop a comprehensive credit card weekly dashboard that provides real time 
 9. Filters:Applied filters and slicers to allow users to explore data based on specific criteria.
 10. Insights Sharing:Exported and shared the dashboard findings,enabling ongoing monitoring and strategic planning.
 # Live Dashboard
-Explore the live dashboard[here](https://app.powerbi.com/links/FDYb9X_9UG?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare).
+Explore the live dashboard [here](https://app.powerbi.com/links/FDYb9X_9UG?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare).
 # Key Insights
 1. Business professionals lead in revenue generation,followed by white-collar workers and the self employed.
 2. The blue-card category is significantly outperforming others with 46 million in revenue,while Platinum is underperforming with only 1 million.
